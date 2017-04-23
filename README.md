@@ -6,6 +6,8 @@ Based on 'How to serve Static Files with Express' at http://www.fullstacktrainin
 
 Cloud Shell is a built-in command line tool for the console. We're going to use Cloud Shell to deploy our app.
 
+https://console.cloud.google.com/appengine/
+
 1. Using Google Cloud Shell
 
 Open the Google Cloud Shell on the Web console using the [>_] button.
