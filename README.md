@@ -26,7 +26,7 @@ Use Cloud Shell to clone and navigate to the code. The sample code is cloned fro
 In Cloud Shell enter:
 
 ```javascript
-CLONEDTODIR=~/src/long-temple-164810/nodejs_mvms_quickstart-2017-04-23-12-50
+CLONEDTODIR=~/src/long-temple-164810/google-cloud-frontend
 ```
 
 Clone a sample repository:
