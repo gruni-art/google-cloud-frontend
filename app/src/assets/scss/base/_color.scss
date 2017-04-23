@@ -21,13 +21,14 @@ $text-color-monochrome:   lighten($black, 33%);
 //
 // - Primary Colors -
 //
-
+$primary-color: #16a085;
+$darken-primary-color: darken($primary-color, 10%);
 
 //
 // - Secondary Colors -
 //
 
-$secondary-color: #e67e22;
+$secondary-color: #8e44ad; // WAS #e67e22;
 $darken-secondary-color: darken($secondary-color, 10%);
 
 //
